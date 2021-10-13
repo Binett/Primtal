@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primtal", "Primtal\Primtal.csproj", "{B7C6849B-7134-4EC1-B3ED-C990797B2B41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7C6849B-7134-4EC1-B3ED-C990797B2B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7C6849B-7134-4EC1-B3ED-C990797B2B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7C6849B-7134-4EC1-B3ED-C990797B2B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7C6849B-7134-4EC1-B3ED-C990797B2B41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91F21E9-0C46-421E-9114-47B182BDD439}
+	EndGlobalSection
+EndGlobal
